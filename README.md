@@ -38,7 +38,7 @@ Include payleven repository to the list of build repositories:
 ###### Gradle
  ```groovy
  //Use the specific library version here
- compile 'de.payleven.payment:mpos:1.0.0@aar'
+ compile 'de.payleven.payment:mpos:1.0.0@jar'
  //This is a helper payleven library.
  compile 'de.payleven:psp-library:+@aar'
  ```
@@ -49,7 +49,7 @@ Include payleven repository to the list of build repositories:
    <groupId>de.payleven.payment</groupId>
    <artifactId>mpos</artifactId>
    <version>1.0.0</version>
-   <type>aar</type>
+   <type>jar</type>
  </dependency>
  <dependency>
    <groupId>de.payleven</groupId>

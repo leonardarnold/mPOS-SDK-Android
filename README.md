@@ -1,5 +1,5 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg?style=flat-square)]()
-[![Version](https://img.shields.io/github/release/payleven/mPOS-SDK-Android.svg?style=flat-square)]()
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat-square)]()
 [![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat-square)]()
 [![Berlin](https://img.shields.io/badge/Made%20in-Berlin-red.svg?style=flat-square)]()
 
@@ -40,7 +40,7 @@ Include payleven repository to the list of build repositories:
  //Use the specific library version here
  compile 'de.payleven.payment:mpos:1.0.0@jar'
  //This is a helper payleven library.
- compile 'de.payleven:psp-library:+@aar'
+ compile 'de.payleven:psp-library:1.0.0@aar'
  ```
   
 ###### Maven
@@ -54,7 +54,7 @@ Include payleven repository to the list of build repositories:
  <dependency>
    <groupId>de.payleven</groupId>
    <artifactId>psp-library</artifactId>
-   <version>1.9p22</version>
+   <version>1.0.0</version>
    <type>aar</type>
  </dependency>
  ```

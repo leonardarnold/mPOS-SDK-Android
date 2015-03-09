@@ -1,7 +1,7 @@
-[![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg?style=flat-square)]()
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat-square)]()
-[![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat-square)]()
-[![Berlin](https://img.shields.io/badge/Made%20in-Berlin-red.svg?style=flat-square)]()
+[![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg?style=flat-square)](http://developer.android.com/index.html)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat-square)](https://github.com/payleven/mPOS-SDK-Android/releases/tag/1.0.0)
+[![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat-square)](http://developer.android.com/about/versions/android-4.0.html)
+[![Berlin](https://img.shields.io/badge/Made%20in-Berlin-red.svg?style=flat-square)](https://payleven.de/)
 
 # payleven mPOS SDK
 

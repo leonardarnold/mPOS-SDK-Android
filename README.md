@@ -81,7 +81,7 @@ eclipse users.
 Before importing _sample_eclipse_ project into eclipse you must perform the following steps:
  1. Download latest GSON library from http://mvnrepository.com/artifact/com.google.code.gson/gson and copy it into _sample_eclipse/sample/libs_ folder.
  2. Download latest Payleven mPOS SDK from https://download.payleven.com/maven/de/payleven/payment/mpos and copy it into _sample_eclipse/sample/libs_ folder.
- 3. Download Payleven PSP library from https://download.payleven.com/maven/de/payleven/psp-library and copy it into _sample_eclipse/psp-library/libs_ folder
+ 3. Download Payleven PSP library from https://download.payleven.com/maven/de/payleven/psp-library-core and copy it into _sample_eclipse/psp-library/libs_ folder
 
 ### Usage
 #### Permissions
